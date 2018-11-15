@@ -12,3 +12,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.component {
+  border: 2px solid white;
+  background-color: lightgrey;
+  margin: 4px;
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.burger {
+  display: flex;
+  flex-direction: column;
+}
